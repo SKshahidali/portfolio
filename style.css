@@ -91,6 +91,7 @@ ul{padding-left:1.2em;margin:0}
 .project>p{color:var(--muted);margin:0 0 12px}
 .tags{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 16px}
 .link{font-weight:600}
+.project+.project{margin-top:20px}
 
 .certs{list-style:none;padding:0;margin:0;border-top:1px solid var(--line)}
 .certs li{display:flex;justify-content:space-between;gap:20px;padding:16px 0;border-bottom:1px solid var(--line)}
